@@ -41,7 +41,7 @@ Sou graduando em **Engenharia de Software** (3º semestre) pela **Universidade F
 - **Perfil Autodidata:** Facilidade em aprender novas tecnologias de forma independente.
 - **Organização:** Foco em código limpo e processos bem estruturados.
 - **Proatividade:** Atitude voltada para a solução de desafios e melhoria contínua.
-
+- **Liderança: ** Capacidade de liderar pessoas 
 ---
 
 ### 📊 Estatísticas do GitHub
