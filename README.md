@@ -50,6 +50,8 @@ Sou graduando em **Engenharia de Software** (3º semestre) pela **Universidade F
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iury-Ghub&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iury-Ghub&layout=compact&theme=radical" />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iury-Ghub&layout=compact&theme=radical" />Ghub&layout=compact&theme=radical)
 
 ### 📩 Vamos nos conectar?
