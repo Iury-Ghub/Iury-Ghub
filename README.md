@@ -44,16 +44,6 @@ Sou graduando em **Engenharia de Software** (3º semestre) pela **Universidade F
 - **Liderança:** Capacidade de liderar pessoas 
 ---
 
-### 📊 Estatísticas do GitHub
-
----
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iury-Ghub&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iury-Ghub&layout=compact&theme=radical" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iury-Ghub&layout=compact&theme=radical" />Ghub&layout=compact&theme=radical)
-
 ### 📩 Vamos nos conectar?
 
 Seja para um projeto, uma oportunidade ou apenas para trocar uma ideia sobre tecnologia, sinta-se à vontade para entrar em contato:
