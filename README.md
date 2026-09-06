@@ -2,12 +2,12 @@
 
 # José Iury Vieira Costa
 
-**Estudante de Engenharia de Software · UFC – Campus Russas**
+**Estudante de Engenharia de Software · Universidade Federal do Ceará**
 
 Backend Java · Arquitetura de Software
 
 <p>
-  <img src="https://img.shields.io/badge/UFC-Campus%20Russas-005B96?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UFC-Universidade%20Federal%20do%20Ceará-005B96?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ceará-Brasil-009C3B?style=for-the-badge" />
 </p>
 
@@ -26,7 +26,7 @@ Backend Java · Arquitetura de Software
 
 ## Sobre mim
 
-Graduando em **Engenharia de Software** pela **Universidade Federal do Ceará – Campus Russas**.
+Graduando em **Engenharia de Software** pela **Universidade Federal do Ceará (UFC)**.
 
 Meu foco é **desenvolvimento backend**, hoje concentrado em Java e Spring Boot — mas o objetivo maior é crescer como engenheiro de software de forma ampla, independente da linguagem. Me interessa entender por que uma decisão de projeto se sustenta ou não conforme o sistema cresce: como separar responsabilidades, modelar dados, testar o que importa e manter o código legível para quem chega depois.
 
@@ -95,10 +95,10 @@ Gerenciador de tarefas por linha de comando com persistência em JSON via Jackso
 **Desenvolvedor Backend · GAMIFICAL**
 Desenvolvimento do backend da plataforma em Java e Spring, com persistência em PostgreSQL e ambiente containerizado com Docker.
 
-**Líder de Marketing — Audiovisual · LearningLab (UFC Russas)**
+**Líder de Marketing — Audiovisual · LearningLab (UFC)**
 Liderança de equipe de 10 pessoas no subsetor de Audiovisual do Clã de Redes e Mídias. Durante a gestão, a visibilidade da página do projeto foi triplicada.
 
-**Organização de maratonas de programação · UFC Russas**
+**Organização de maratonas de programação · UFC**
 Maratonas de programação com cerca de 100 participantes, incluindo avaliação de plataformas de julgamento (BOCA, DOMjudge, Beecrowd) e elaboração de problemas originais.
 
 **Capacita iRede — trilha Java**
