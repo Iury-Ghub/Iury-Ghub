@@ -2,7 +2,9 @@
 
 # José Iury Vieira Costa
 
-**Estudante de Engenharia de Software · Backend Java / Spring Boot**
+**Estudante de Engenharia de Software · UFC – Campus Russas**
+
+Backend Java · Arquitetura de Software
 
 <p>
   <img src="https://img.shields.io/badge/UFC-Campus%20Russas-005B96?style=for-the-badge" />
@@ -10,7 +12,7 @@
 </p>
 
 <p>
-  <a href="mailto:joseiury74@gmail.com">
+  <a href="mailto:contatojoseiury@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/iury-link/">
@@ -24,14 +26,14 @@
 
 ## Sobre mim
 
-Graduando em **Engenharia de Software** pela **UFC – Campus Russas**, com foco em **backend Java com Spring Boot**.
+Graduando em **Engenharia de Software** pela **Universidade Federal do Ceará – Campus Russas**.
 
-Meus projetos mais recentes giram em torno de APIs REST com autenticação, persistência relacional e containerização. Gosto de partir de um problema concreto e ir aumentando o rigor: separar camadas, isolar acesso a dados, escrever testes e documentar o que foi feito.
+Meu foco é **desenvolvimento backend**, hoje concentrado em Java e Spring Boot — mas o objetivo maior é crescer como engenheiro de software de forma ampla, independente da linguagem. Me interessa entender por que uma decisão de projeto se sustenta ou não conforme o sistema cresce: como separar responsabilidades, modelar dados, testar o que importa e manter o código legível para quem chega depois.
 
 - 🔭 Desenvolvendo o **FinTrackAPI** — API REST de finanças pessoais com Spring Boot e JWT
-- 🌱 Estudando **testes automatizados**, **SQL** e **estruturas de dados / algoritmos**
+- 🌱 Estudando **Docker**, **testes automatizados**, **SQL** e **arquitetura de software**
 - 📚 Cursando a trilha Java do **Capacita iRede**
-- 📫 **joseiury74@gmail.com**
+- 📫 Contato: **contatojoseiury@gmail.com**
 
 ---
 
@@ -89,6 +91,9 @@ Gerenciador de tarefas por linha de comando com persistência em JSON via Jackso
 ---
 
 ## Experiência
+
+**Desenvolvedor Backend · GAMIFICAL**
+Desenvolvimento do backend da plataforma em Java e Spring, com persistência em PostgreSQL e ambiente containerizado com Docker.
 
 **Líder de Marketing — Audiovisual · LearningLab (UFC Russas)**
 Liderança de equipe de 10 pessoas no subsetor de Audiovisual do Clã de Redes e Mídias. Durante a gestão, a visibilidade da página do projeto foi triplicada.
